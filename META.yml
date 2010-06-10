@@ -1,0 +1,17 @@
+---
+abstract: 'This is the abstrcta.'
+author:
+  - 'TO.pm <thousand-oaks-pm@pm.org>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.31
+generated_by: 'Dist::Zilla version 2.101040'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Acme-Lemur
+recommends: {}
+requires:
+  Acme: 1.11111
+version: 9004573.12398346
